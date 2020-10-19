@@ -1,0 +1,73 @@
+.indice{
+width: auto;
+height: 50px;
+z-index: 101;
+background: #fffb00;
+font-size: 16px;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+margin-top: -8px;
+padding: 1px;
+}
+
+.indice ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline-flex;
+}
+.indice li{
+    padding-top: 15px;
+    padding-left: 30px;
+    width: 164px;
+
+}
+.indice li a:hover{
+    color: sienna;
+    text-decoration: overline;
+}
+.logodn{
+        width:auto;
+        height: 135px;
+    background: #1fa13be7;
+    margin: auto;
+    text-align: center;
+    padding: 1px;
+}
+
+.imagenes{
+    
+background-image: url(../img/fondo\ 1.jpg);
+    padding: 22px;
+    margin-top:-37px;
+    width: auto;
+    height: auto;
+    
+
+}
+.imagen{
+    width: 200%;
+    height: 380px;
+}
+
+.biografia{
+    background: white;
+    text-align: -webkit-center;
+    margin-top: 42px;
+    height: auto;
+
+}
+
+.musica{
+    background: radial-gradient( 671px, green, yellow, darkred, transparent);
+    padding: 40px;
+    font-size: 19px;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+
+}
+.surguimiento{
+    background: linear-gradient( transparent, green, yellow, red );
+    text-align: center;
+    padding: 15px;
+}
